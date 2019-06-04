@@ -3,3 +3,4 @@ sphinx_rtd_theme
 cloud_sptheme
 nbsphinx
 ipykernel
+test
